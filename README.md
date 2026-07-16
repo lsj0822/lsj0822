@@ -15,13 +15,15 @@
   - SSAFY 공통프로젝트 우수상(1등)
   - SSAFY 특화프로젝트 우수상(2등)
   - SSAFY 자율프로젝트 우수상(3등)
-- **보유 자격증:** 정보처리기사 (2025.06), SQLD (2025.04), ADsP (2025.06)
+- **보유 자격증:** 삼성 SW 역량테스트 Pro(B형), 정보처리기사 (2025.06), SQLD (2025.04), ADsP (2025.06)
 - **어학 능력:** OPIc IM2 (2025.03.12)
 
 ## 🚀 Projects
 
-### [ParaDICE] 로그라이크 RPG 게임 클라이언트
+### [ParaDICE] 로그라이크 RPG 게임
+- **서비스 링크:** [🎮Steam](https://store.steampowered.com/app/4446490/paraDICE/) | [📱Play Store](https://play.google.com/store/apps/details?id=com.justgg.paradice&hl=ko)
 - **기간:** 2026.01 - 2026.04
+- **프로젝트 인원:** 2인
 - **역할 및 기술:** 게임 클라이언트 개발 (기여도 40%) / Unity
 - **주요 성과:**
   - 3가지 종류의 아이템 템플릿화 및 인벤토리 완전탐색 방식을 O(1) addressing으로 개선
@@ -29,7 +31,9 @@
   - Headless 환경 구현을 통한 즉각적인 밸런스 결과 확인 및 플레이 로그 기반 난이도 조절
 
 ### [APILog] 오픈소스 사용자 로그 분석 프로그램
+- **레포지토리:** [Github](https://github.com/APIL0g/APILog)
 - **기간:** 2025.10 - 2025.11
+- **프로젝트 인원:** 6인
 - **역할 및 기술:** 인프라 배포 (기여도 40%), 풀스택 (기여도 10%) / Github Actions, NGINX, Docker, Deck.gl
 - **주요 성과:**
   - Docker Compose, Nginx 리버스 프록시, Github Actions를 활용한 서비스 일괄 자동 배포 파이프라인 구축
@@ -38,6 +42,7 @@
 
 ### [See You Letter] 음성 녹음 기반 NFT 편지 서비스 (Android, Watch OS)
 - **기간:** 2025.09 - 2025.09
+- **프로젝트 인원:** 6인
 - **역할 및 기술:** Backend 개발 (기여도 20%) / Spring Boot, MySQL, IPFS, Firebase
 - **주요 성과:**
   - Firebase Token ID 기반 OAuth2 인증 및 FCM 푸시 알림 구현
@@ -45,7 +50,8 @@
 
 ### [AI Contact] AI 캐릭터와 함께 성장하는 커플 플랫폼
 - **기간:** 2025.07 - 2025.08
-- **역할 및 기술:** Frontend 팀장 (프론트엔드 기여도 45%) / JavaScript, TypeScript, React
+- **프로젝트 인원:** 6인
+- **역할 및 기술:** Frontend, 팀장 (프론트엔드 기여도 45%) / JavaScript, TypeScript, React
 - **주요 성과:**
   - API 상태에 따른 커플 연결 및 캐릭터 생성 분기 처리 구현
   - 다수 컴포넌트의 레이아웃 통일을 위해 유연하게 동작하는 공통 모달 컴포넌트 설계
@@ -68,9 +74,6 @@
 ---
 ### 게임엔진 & 그래픽
 <img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black">   <img src="https://img.shields.io/badge/gamemaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white">   <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">   <img src="https://img.shields.io/badge/aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"> 
----
-### 관심을 가지고 있는 기술들 
-<img src="https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white"> <img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white">  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> 
 ---
 
 ### Problem Solving
